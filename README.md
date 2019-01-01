@@ -2,6 +2,17 @@
 
 Inject connections into the airflow database from configuration
 
+## Quickstart
+
+### Basic
+
+```shell
+$ pip install airflow-plugin-config-storage
+$ export AIRFLOW_CONN_POSTGRES_MASTER=postgres://username:password@my.db.example.com/my-schema
+$ load-airflow-conf-env-var
+$ airflow webserver
+```
+
 ## Common
 
 ### CLI Commands
