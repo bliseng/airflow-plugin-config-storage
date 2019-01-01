@@ -7,7 +7,7 @@ setup(
     name='airflow-plugin-config-storage',
     version='0.1.0',
     packages=find_packages(),
-    url='https://github.com/drewsonne/airflow-configuration-storage',
+    url='https://bliseng.github.io/airflow-plugin-config-storage/',
     license='LGPLv3',
     author='Drew J. Sonne',
     author_email='drew.sonne@gmail.com',
