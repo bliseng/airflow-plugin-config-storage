@@ -1,8 +1,10 @@
-# airflow-configuration-storage plugin
+# airflow-plugin-config-storage
 
 # Appendix
 
 ## AWS
+
+_NOTE_: Not yet implemented, these are proposals
 
 ### SSM
 
